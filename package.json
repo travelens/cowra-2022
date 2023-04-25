@@ -1,7 +1,7 @@
 {
-  "name": "trip-template",
+  "name": "cowra-2022",
   "author": "Chris Tham (chris@christham.net)",
-  "description": "Trip template for travelens",
+  "description": "Girls road trip (23-26 September 2022) to Cowra Japanese Garden Matsuri Spring Festival and Canberra for the Floriade.",
   "license": "MIT",
   "version": "0.0.1",
   "scripts": {
