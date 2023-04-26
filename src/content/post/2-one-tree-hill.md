@@ -4,7 +4,7 @@ date: 2022-09-24T16:00:00+10:00
 description: We reached Canberra in the afternoon and stopped by at One Tree Hill to admire the water tank mural.
 trip: Cowra 2022
 place: Australia
-timezone: Australia/NSW
+timezone: Australia/ACT
 location: One Tree Hill
 image: ../../assets/gallery/2-one-tree-hill/One Tree Hill (9).jpeg
 gallery: 2-one-tree-hill
