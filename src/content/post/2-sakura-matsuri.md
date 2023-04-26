@@ -13,7 +13,7 @@ tags:
   - Cowra
   - Cowra Japanese Garden
   - Sakura Matsuri
-  - spring
+  - Spring
   - festival
 ---
 Following 2 years of cancellations due to the pandemic, Sakura Matsuri (Cherry Blossom Festival) wil be returning to the Cowra Japanese Garden and Cultural Centre in 2022! To mark the occasion, we visited the garden wearing kimonos and hauris.

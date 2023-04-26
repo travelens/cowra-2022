@@ -14,6 +14,7 @@ tags:
   - Floriade
   - festival
   - flowers
+  - Spring
 ---
 [Floriade](https://floriadeaustralia.com/) also returns back to normal after the COVID-19 lockdown! This year's theme is entitled "The Sounds of Spring".
 
