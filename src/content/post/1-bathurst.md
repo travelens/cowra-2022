@@ -8,13 +8,14 @@ timezone: Australia/NSW
 location: Bathurst
 image: ../../assets/gallery/1-bathurst/Kings Parade (7).jpeg
 gallery: 1-bathurst
-map: [-33.41773,149.57921,17]
+map: [-33.41773, 149.57921, 17]
 tags:
   - Bathurst
   - Kings Parade
   - Machattie Park
   - Bathurst Courthouse
 ---
+
 Kings Parade, with its Carillon, Evans and Boer War Memorial monuments, forms an important focal point for the city.
 
 The Carillon was built in 1933 as a memorial to the men and women of Bathurst and District who served in World War 1. It has 35 bells and, while it can still be played manually, it is connected to a computer and is programmed to play 40 different tunes. It plays every day at noon and 1.00pm.

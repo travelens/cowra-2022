@@ -8,7 +8,7 @@ timezone: Australia/NSW
 location: Cowra Japanese Garden
 image: ../../assets/gallery/2-sakura-matsuri/Sakura Matsuri (30).jpeg
 gallery: 2-sakura-matsuri
-map: [-33.82677,148.69719,17]
+map: [-33.82677, 148.69719, 17]
 tags:
   - Cowra
   - Cowra Japanese Garden
@@ -16,6 +16,7 @@ tags:
   - Spring
   - festival
 ---
+
 Following 2 years of cancellations due to the pandemic, Sakura Matsuri (Cherry Blossom Festival) wil be returning to the Cowra Japanese Garden and Cultural Centre in 2022! To mark the occasion, we visited the garden wearing kimonos and hauris.
 
 ## Cowra Japanese Garden & Cultural Centre

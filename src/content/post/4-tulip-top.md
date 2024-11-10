@@ -8,12 +8,13 @@ timezone: Australia/NSW
 location: Tulip Top Gardens
 image: ../../assets/gallery/4-tulip-top/Tulip Top Gardens (58).jpeg
 gallery: 4-tulip-top
-map: [-35.1744,149.2726,15]
+map: [-35.1744, 149.2726, 15]
 tags:
   - Tulip Top
   - garden
   - Spring
 ---
+
 Final stop on the trip is a visit to beautiful [Tulip Top Gardens](https://www.tuliptopgardens.com.au/).
 
 This place is a popular attraction, particularly for Asian tourists, during springtime. It features acres of stunning garden beds framed by weeping willows, and thouands of blossoms. Every year, almost a million tulips, daffodils and other flowers creatively planted providing a stunning and colourful vista for all garden lovers.

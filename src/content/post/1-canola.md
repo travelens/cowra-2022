@@ -8,9 +8,10 @@ timezone: Australia/NSW
 location: Cowra
 image: ../../assets/gallery/1-canola/Canola (10).jpeg
 gallery: 1-canola
-map: [-33.8505,148.6402,12]
+map: [-33.8505, 148.6402, 12]
 tags:
   - Cowra
   - Canola
 ---
+
 Every spring, the canola fields around Cowra turn a beautiful golden yellow and they are an amazing sight to see and to photograph. Although we are not supposed to step into a canola field for biological risk reasons, we stopped the car and took some photos from the roadside.

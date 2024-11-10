@@ -8,11 +8,12 @@ timezone: Australia/NSW
 location: Japanese War Cemetery
 image: ../../assets/gallery/1-japanese-war-cemetery/Japanese War Cemetery (3).jpeg
 gallery: 1-japanese-war-cemetery
-map: [-33.80119,148.69182,18]
+map: [-33.80119, 148.69182, 18]
 tags:
   - Cowra
   - Japanese War Cemetery
 ---
+
 At 1.50 am on the clear moonlit night of August 5, 1944, the largest Prisoner of War breakout in modern military history occurred at Cowra. More than 1000 Japanese prisoners launched a mass 'suicide attack' on their guards, Australian soldiers of the 22nd Garrison. To the Japanese, the disgrace of capture could finally be overcome by dying in armed battle.
 
 Armed with crude weapons, four groups each of approximately 300 Japanese threw themselves on to barbed wire fences and into the firing line of Vickers machine guns. Protected only by baseball mitts, blankets, and coats and using their comrades as a human bridge to cross the tangled barbed wire, more than 350 Japanese clawed their way to freedom.

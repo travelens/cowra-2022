@@ -8,13 +8,14 @@ timezone: Australia/ACT
 location: One Tree Hill
 image: ../../assets/gallery/2-one-tree-hill/One Tree Hill (9).jpeg
 gallery: 2-one-tree-hill
-map: [-35.14385,149.09540,17]
+map: [-35.14385, 149.09540, 17]
 tags:
   - Canberra
   - One Tree Hill
   - art
   - Taylor
 ---
+
 The One Tree Hill Water Tank can be found in the new subdivision of Taylor in Canberra.
 
 It was painted by Geoff Filmer in July 2021.

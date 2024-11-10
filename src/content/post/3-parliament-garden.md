@@ -8,19 +8,20 @@ timezone: Australia/ACT
 location: Parliament House
 image: ../../assets/gallery/3-parliament-garden/Parliament House Garden (2).jpeg
 gallery: 3-parliament-garden
-map: [-35.3076,149.1246,16]
+map: [-35.3076, 149.1246, 16]
 tags:
   - Canberra
   - Parliament House
   - garden
 ---
+
 Till recently, the gardens surrounding Parliament House were not well known, even by Parliament House staff, let alone locals. When we first visited it, we were directed by security guards and we met a member of staff there who had worked for several years visiting it for the first time.
 
 [Parliament House](https://www.aph.gov.au/Visit_Parliament) is designed to be a part of the surrounding landscape. Its 33-hectare site includes 23 hectares of landscaping, ranging from areas evoking the Australian bush to turfed areas, and formal and semi-formal gardens with native and exotic plants—much of which you are welcome to explore.
 
 Nine hectares of native gardens surround the eastern, southern and western side of Parliament House outside Parliament Drive. There are 4,500 trees and 135,000 shrubs and groundcovers growing in the landscape, many of which are indigenous to the Australian Capital Territory.
 
-The design for the formal garden on the eastern side of Parliament House is inspired by English and French formal garden designs. In the centre is a traditional water feature, which creates gentle sound and movement in the space. The gardens surrounding the water feature displays of annuals with approximately 3,500 plants, which are changed in spring and  autumn.
+The design for the formal garden on the eastern side of Parliament House is inspired by English and French formal garden designs. In the centre is a traditional water feature, which creates gentle sound and movement in the space. The gardens surrounding the water feature displays of annuals with approximately 3,500 plants, which are changed in spring and autumn.
 
 The Chinese lions can be found at the entrance to the formal gardens. Statues of guardian lions were traditionally installed at the entrances of imperial and government buildings in China. They are usually found in pairs, the male resting a paw on a ball and the female restraining a playful cub on its back.
 

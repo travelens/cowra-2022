@@ -8,7 +8,7 @@ timezone: Australia/ACT
 location: National Museum of Australia
 image: ../../assets/gallery/3-connection/Connections (23).jpeg
 gallery: 3-connection
-map: [-35.29294,149.12083,17]
+map: [-35.29294, 149.12083, 17]
 tags:
   - Canberra
   - National Museum
@@ -16,6 +16,7 @@ tags:
   - Connection
   - event
 ---
+
 Grande Experiences, creators and producers of the most visited multi-sensory exhibition in the world, Van Gogh Alive, developed **Connection** to celebrate the spirit of Indigenous Australia.
 
 Connection brings to life the stories, art and culture of Australia’s First Peoples through multi-sensory projections and dynamic immersion.
