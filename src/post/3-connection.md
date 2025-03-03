@@ -6,7 +6,7 @@ trip: Cowra 2022
 place: Australia
 timezone: Australia/ACT
 location: National Museum of Australia
-image: ../../assets/gallery/3-connection/Connections (23).jpeg
+image: ../gallery/3-connection/Connections (23).jpeg
 gallery: 3-connection
 map: [-35.29294, 149.12083, 17]
 tags:

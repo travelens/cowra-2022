@@ -6,7 +6,7 @@ trip: Cowra 2022
 place: Australia
 timezone: Australia/NSW
 location: Imperial Hotel
-image: ../../assets/gallery/1-dinner/Imperial Hotel (1).jpeg
+image: ../gallery/1-dinner/Imperial Hotel (1).jpeg
 gallery: 1-dinner
 map: [-33.83398, 148.68769, 18]
 tags:

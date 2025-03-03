@@ -6,7 +6,7 @@ trip: Cowra 2022
 place: Australia
 timezone: Australia/NSW
 location: Cowra Japanese Garden
-image: ../../assets/gallery/2-sakura-matsuri/Sakura Matsuri (30).jpeg
+image: ../gallery/2-sakura-matsuri/Sakura Matsuri (30).jpeg
 gallery: 2-sakura-matsuri
 map: [-33.82677, 148.69719, 17]
 tags:

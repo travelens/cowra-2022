@@ -6,7 +6,7 @@ trip: Cowra 2022
 place: Australia
 timezone: Australia/ACT
 location: Canberra
-image: ../../assets/gallery/3-canberra/Sam sek fan.jpeg
+image: ../gallery/3-canberra/Sam sek fan.jpeg
 gallery: 3-canberra
 map: [-35.27821, 149.13292, 17]
 tags:

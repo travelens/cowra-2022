@@ -6,7 +6,7 @@ trip: Cowra 2022
 place: Australia
 timezone: Australia/ACT
 location: Parliament House
-image: ../../assets/gallery/3-parliament-garden/Parliament House Garden (2).jpeg
+image: ../gallery/3-parliament-garden/Parliament House Garden (2).jpeg
 gallery: 3-parliament-garden
 map: [-35.3076, 149.1246, 16]
 tags:

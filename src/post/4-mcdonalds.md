@@ -6,7 +6,7 @@ trip: Cowra 2022
 place: Australia
 timezone: Australia/NSW
 location: McDonalds
-image: ../../assets/gallery/4-mcdonalds/McDonalds (2).jpeg
+image: ../gallery/4-mcdonalds/McDonalds (2).jpeg
 gallery: 4-mcdonalds
 map: [-34.60738, 150.22607, 18]
 tags:

@@ -6,7 +6,7 @@ trip: Cowra 2022
 place: Australia
 timezone: Australia/NSW
 location: Cowra Bridge
-image: ../../assets/gallery/2-cowra/Cowra Bridge (6).jpeg
+image: ../gallery/2-cowra/Cowra Bridge (6).jpeg
 gallery: 2-cowra
 map: [-33.83433, 148.68376, 17]
 tags:

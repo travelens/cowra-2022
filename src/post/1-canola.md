@@ -6,7 +6,7 @@ trip: Cowra 2022
 place: Australia
 timezone: Australia/NSW
 location: Cowra
-image: ../../assets/gallery/1-canola/Canola (10).jpeg
+image: ../gallery/1-canola/Canola (10).jpeg
 gallery: 1-canola
 map: [-33.8505, 148.6402, 12]
 tags:

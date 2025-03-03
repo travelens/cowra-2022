@@ -6,7 +6,7 @@ trip: Cowra 2022
 place: Australia
 timezone: Australia/NSW
 location: Ironbark
-image: ../../assets/gallery/2-ironbark/Ironbark Smoked BBQ at the Mill.jpeg
+image: ../gallery/2-ironbark/Ironbark Smoked BBQ at the Mill.jpeg
 gallery: 2-ironbark
 map: [-33.8355, 148.6874, 16]
 tags:

@@ -6,7 +6,7 @@ trip: Cowra 2022
 place: Australia
 timezone: Australia/NSW
 location: Bathurst
-image: ../../assets/gallery/1-bathurst/Kings Parade (7).jpeg
+image: ../gallery/1-bathurst/Kings Parade (7).jpeg
 gallery: 1-bathurst
 map: [-33.41773, 149.57921, 17]
 tags:

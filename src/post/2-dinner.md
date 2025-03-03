@@ -6,7 +6,7 @@ trip: Cowra 2022
 place: Australia
 timezone: Australia/NSW
 location: Soup Stone
-image: ../../assets/gallery/2-dinner/Soupstone.jpeg
+image: ../gallery/2-dinner/Soupstone.jpeg
 gallery: 2-dinner
 map: [-35.27620, 149.12577, 18]
 tags:

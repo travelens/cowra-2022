@@ -6,7 +6,7 @@ trip: Cowra 2022
 place: Australia
 timezone: Australia/ACT
 location: Floriade
-image: ../../assets/gallery/3-floriade/Floriade 2022 (2).jpeg
+image: ../gallery/3-floriade/Floriade 2022 (2).jpeg
 gallery: 3-floriade
 map: [-35.2891, 149.1333, 16]
 tags:

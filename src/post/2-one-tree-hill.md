@@ -6,7 +6,7 @@ trip: Cowra 2022
 place: Australia
 timezone: Australia/ACT
 location: One Tree Hill
-image: ../../assets/gallery/2-one-tree-hill/One Tree Hill (9).jpeg
+image: ../gallery/2-one-tree-hill/One Tree Hill (9).jpeg
 gallery: 2-one-tree-hill
 map: [-35.14385, 149.09540, 17]
 tags:

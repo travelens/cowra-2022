@@ -6,7 +6,7 @@ trip: Cowra 2022
 place: Australia
 timezone: Australia/NSW
 location: Japanese War Cemetery
-image: ../../assets/gallery/1-japanese-war-cemetery/Japanese War Cemetery (3).jpeg
+image: ../gallery/1-japanese-war-cemetery/Japanese War Cemetery (3).jpeg
 gallery: 1-japanese-war-cemetery
 map: [-33.80119, 148.69182, 18]
 tags:

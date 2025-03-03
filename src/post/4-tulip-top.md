@@ -6,7 +6,7 @@ trip: Cowra 2022
 place: Australia
 timezone: Australia/NSW
 location: Tulip Top Gardens
-image: ../../assets/gallery/4-tulip-top/Tulip Top Gardens (58).jpeg
+image: ../gallery/4-tulip-top/Tulip Top Gardens (58).jpeg
 gallery: 4-tulip-top
 map: [-35.1744, 149.2726, 15]
 tags:

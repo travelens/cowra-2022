@@ -6,7 +6,7 @@ trip: Cowra 2022
 place: Australia
 timezone: Australia/NSW
 location: Pantanos
-image: ../../assets/gallery/1-pantanos/Pantano's Bar and Grill.jpeg
+image: ../gallery/1-pantanos/Pantano's Bar and Grill.jpeg
 gallery: 1-pantanos
 map: [-33.41731, 149.58126, 18]
 tags:

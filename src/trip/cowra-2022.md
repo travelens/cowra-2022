@@ -6,7 +6,7 @@ location: Cowra
 start: 2022-09-23T09:00:00+11:00
 end: 2022-09-26T17:00:00+11:00
 description: Girls road trip (23-26 September 2022) to Cowra Japanese Garden Matsuri Spring Festival and Canberra for the Floriade.
-image: ../../assets/trip.jpeg
+image: ./trip.jpeg
 tags:
   - Cowra
   - Matsuri
